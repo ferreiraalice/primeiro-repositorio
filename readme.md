@@ -1,4 +1,4 @@
-<h1>este é meu primeiro repositorio</h1>
+<h1>Este é meu primeiro repositorio</h1>
 
 > status do projeto:em desenvolvimento
 
